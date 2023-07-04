@@ -1,0 +1,44 @@
+mysql -h aws20181.cuml11usydn2.ap-south-1.rds.amazonaws.com -u aws20181 -p
+8A29320o1!8()*&^
+
+
+------------------------------------------
+database_name : erpcitrusbug_db
+database_user_name : erpcitrusbug_user
+database_password : erpcitrusbug8932()*&^
+
+
+CREATE DATABASE erpcitrusbug_db;
+CREATE USER erpcitrusbug_user@localhost;
+SET PASSWORD FOR erpcitrusbug_user@localhost= PASSWORD("erpcitrusbug8932()*&^");
+GRANT ALL PRIVILEGES ON erpcitrusbug_db.* TO erpcitrusbug_user@localhost IDENTIFIED BY 'erpcitrusbug8932()*&^';
+GRANT ALL ON erpcitrusbug_db.* to erpcitrusbug_user@'%' IDENTIFIED BY 'erpcitrusbug8932()*&^';
+FLUSH PRIVILEGES;
+
+
+
+ALTER TABLE `tasks` ADD `hascode` VARCHAR(255) NULL AFTER `content`;
+
+
+* * * * * wget -q -O /dev/null http://13.127.235.254/dev/laravel/erp-citrusbug/public/daily-cron > /dev/null 2>&1
+* 13 * * * wget -q -O /dev/null http://13.235.225.118/dev/laravel/erp-citrusbug/public/daily-cron > /dev/null 2>&1
+
+
+*/35 * * * *
+
+
+
+*/2 * * * * wget -q -O /dev/null https://contentweb.io/text-conversation > /dev/null 2>&1
+
+
+
+
+---------------URL TO ADD TASK
+http://localhost/laravel/erp-citrusbug/public/admin/new-user-tasks?user_id=12&start_date=2019-11-15&end_date=2019-12-18
+
+-----------------------------------
+
+ALTER TABLE `tasks` ADD `slug` VARCHAR(255) NULL AFTER `id`;
+
+
+

@@ -1,0 +1,67 @@
+@media (max-width: 767px) {
+  .text-center-xs {
+    text-align: center; } }
+
+@media (min-width: 768px) {
+  .img-responsive-sm {
+    display: block;
+    height: auto;
+    max-width: 100%; } }
+
+@media (max-width: 767px) {
+  .no-mg-t-xs {
+    margin-top: 0 !important; } }
+
+.no-mg-t {
+  margin-top: 0 !important; }
+
+.no-mg-b {
+  margin-bottom: 0 !important; }
+
+.center-block {
+  margin-left: auto;
+  margin-right: auto; }
+
+#stats-chart1, #stats-chart2, #stats-chart3, #stats-chart7, #stats-chart8 {
+  height: 200px; }
+
+.color-settings .color-title {
+  font-weight: bold;
+  padding-left: 10px; }
+
+.wysihtml5-sandbox {
+  box-sizing: border-box; }
+
+.action_icon{
+  margin: 2px 8px 2px 8px;
+}
+.input-tooltip{
+  padding: 0 !important;
+  border: none !important;
+}
+
+table.dataTable thead .sorting_asc , table.dataTable thead .sorting_desc ,table.dataTable thead .sorting{
+  background-image: none !important;
+}
+.full-width{
+  width: 100% !important;
+}
+.box-collapsed .fa-search-minus{
+  display: none !important;
+}
+.box-opened .fa-search-plus{
+  display: none !important;
+}
+.bootstrap-duallistbox-container select {
+    width: 100% !important;
+    height: 200px !important;
+    padding: 0 !important;
+}
+
+#evidence_modal .modal-dialog {
+    max-width: 900px;
+}
+#evidence_modal .modal-content {
+    border-radius: .25rem;
+    max-height: 100vh;
+}

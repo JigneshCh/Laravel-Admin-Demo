@@ -1,0 +1,118 @@
+.advance_search_section .card .card-header{
+    padding:0px;
+}
+
+.advance_search_section .pt-3{
+   padding-top:0px !important;
+   padding-bottom: 0px;
+}
+
+.tbl_ticket .table{
+    width: 0;
+}
+
+.chat-application .chat-name,.chat-application .chat-app-window , .chat-application .chat-app-form  {
+    margin-left: 0px !important; 
+}
+
+.login-screen .card .card-img.overlap {margin-top: 0;padding: 20px;}
+.login-screen .main-panel { margin-top: 0;}
+.login-screen h2.white { font-size: 24px;text-transform: uppercase;margin: 0;padding: 10px;}
+.login-screen button.btn.btn-pink.btn-block.btn-raised {background: #fff;font-size: 16px;padding: 5px 0 7px 0;}
+.login-screen .card-footer .float-left {float: none !important;}
+.app-sidebar .logo, .off-canvas-sidebar .logo {   position: relative;z-index: 4;padding: 20px 15px;}
+.app-sidebar .is-shown > a > i { display: none; }
+
+.login-screen .card.gradient-indigo-purple.text-center.width-400 {
+    background-color: #fff;
+    background-image: none;
+    width: 450px!important;
+}
+
+.navbar { height: 80px; }
+
+img.main-logo-img {  display: block; }
+img.main-logo-img-xs {  display: none; }
+.wrapper.nav-collapsed.menu-collapsed img.main-logo-img {  display: none; }
+.wrapper.nav-collapsed.menu-collapsed img.main-logo-img-xs {  display: block; }
+.app-sidebar .navigation ul .is-shown span {font-size: 14px;padding: 0;margin: 0;}
+.app-sidebar .navigation li ul li a, .off-canvas-sidebar .navigation li ul li a {   display: block;padding: 8px 10px 8px 55px;}
+
+.badge-light {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    padding: 5px 10px 6px 10px!important;
+}
+.footer-btn{ border-top: 0px solid #e7e7e7!important;padding: 0px 0!important;margin: 0 0 0px 0px!important;}
+.card-block.card-dashboard.card-block-new {
+    margin: 0px 25px;
+    padding: 0px;
+    border: 0px solid #ddd;
+}
+.card-block.card-dashboard.card-block-new .pricing-table {
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin: 0 0 20px 0;
+    border-radius: 4px;
+}
+.card-block.card-dashboard.card-block-new .pricing-table:hover {
+    background: #f5f7fa;
+    box-shadow: 0 0 10px 0 #f5f7fa;    
+}
+
+a.btn.btn-01 {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: #1a933c;
+    color: #fff;
+    border: 1px solid #ddd;
+}
+.box-group-01 .percentag-p {
+    display: inline-block;
+    height: 40px;
+    padding: 0px 15px;
+    width: auto;
+    background: #eee;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 40px;
+    position: absolute;
+    right: 150px;
+    bottom: -3px;
+    font-size: 12px;
+    border: 1px solid #ddd;
+}
+.package-name {
+    font-size: 16px;
+    font-weight: 700;
+}
+.h5-product p {
+    margin: 0 20px 0 0px;
+    padding: 10px 0;
+}
+.box-group-01 .badge {
+    font-size: 12px!important;
+    font-weight: 400!important;
+    padding: 5px 10px 5px 10px;
+}
+small.last-status {
+    line-height: 1.4;
+    margin: 0 0px 30px 0;
+}
+
+.line-break {
+	white-space: pre-line !important;
+}
+
+
+.font-45 {font-size: 45px;}
+.sussess img { width: 100px; margin: 30px 0;}
+
+.line-1 {width: 35%;}
+
+.height-725
+{
+    min-height: 725px;
+}
+

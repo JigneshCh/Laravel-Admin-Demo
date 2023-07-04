@@ -1,0 +1,38 @@
+{
+  "menus": [
+    {
+      "title": "Users",
+      "url": "",
+      "permission": "access.users",
+      "icon": "fa fa-user",
+      "allow_site":"all",
+      "items": [
+        {
+          "title": "Users",
+          "url": "\/admin\/users",
+          "permission": "access.users",
+          "icon": "fa fa-users",
+          "allow_site":"all"
+        },
+        {
+          "title": "Roles",
+          "url": "\/admin\/roles",
+          "permission": "access.roles",
+          "icon": "fa fa-cubes",
+          "allow_site":"all"
+        }
+      ]
+    },
+	{
+	  "title": "Tickets",
+      "url": "\/admin\/tickets",
+      "permission": "access.users",
+      "icon": "fa fa-list",
+      "allow_site":"all",
+      "items": []
+	 }
+   
+    
+
+  ]
+}
