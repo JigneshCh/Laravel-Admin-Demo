@@ -18,5 +18,4 @@ Laravel | ADMIN | ROLES | TICKET CRUD | DATATABLE LISTING WITH FILTER| MODAL REL
 
 ## Overview 
 
- - Url_1: http://13.234.224.145/Jignesh-demo/Laravel-Admin-Demo/public/
- - Url_2: http://jc-deloper.com/Jignesh-demo/Laravel-Admin-Demo/public/
+ - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-Admin-Demo/public/
